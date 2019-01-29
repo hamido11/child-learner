@@ -1,0 +1,57 @@
+<resources>
+
+    <!-- text Sizes -->
+    <dimen name="text_m">15sp</dimen>
+    <dimen name="text_l">18sp</dimen>
+    <dimen name="text_xl">23sp</dimen>
+    <dimen name="text_xxl">40sp</dimen>
+    <dimen name="text_xxxl">27sp</dimen>
+    <dimen name="text_xxxxl">50sp</dimen>
+    <dimen name="text_xxxxxl">18sp</dimen>
+
+
+    <!-- dimens -->
+    <dimen name="dimen_m">40dp</dimen>
+    <dimen name="dimen_l">50dp</dimen>
+    <dimen name="dimen_xl">85dp</dimen>
+    <dimen name="dimen_xxl">40dp</dimen>
+    <dimen name="dimen_xxxl">100dp</dimen>
+    <dimen name="dimen_xxxxl">200dp</dimen>
+
+
+    <!-- margins -->
+    <dimen name="margin_m">3dp</dimen>
+    <dimen name="margin_l">5dp</dimen>
+    <dimen name="margin_xl">10dp</dimen>
+    <dimen name="margin_xxl">16dp</dimen>
+    <dimen name="margin_xxxl">20dp</dimen>
+    <dimen name="margin_xxxxl">50dp</dimen>
+    <dimen name="margin_xxxxxl">100dp</dimen>
+    <dimen name="margin_xxxxxxl">120dp</dimen>
+
+
+    <!-- padding -->
+    <dimen name="padding_m">5dp</dimen>
+    <dimen name="padding_l">7dp</dimen>
+    <dimen name="padding_xl">10dp</dimen>
+    <dimen name="padding_xxl">20dp</dimen>
+    <dimen name="padding_xxxl">50dp</dimen>
+
+
+    <!-- height -->
+    <dimen name="height_m">50dp</dimen>
+    <dimen name="height_l">80dp</dimen>
+    <dimen name="height_xl">240dp</dimen>
+
+
+    <!-- width -->
+    <dimen name="width_m">50dp</dimen>
+    <dimen name="width_l">100dp</dimen>
+
+
+    <!-- radius -->
+    <dimen name="radius_m">10dp</dimen>
+    <dimen name="radius_l">20dp</dimen>
+    <dimen name="dimen_avatar">100dp</dimen>
+
+</resources>

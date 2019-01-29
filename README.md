@@ -23,4 +23,3 @@
 
 ---
 
- #### Developer [Abdelouahed Medjoudja](https://www.facebook.com/AbdelouahedMedjoudja)
